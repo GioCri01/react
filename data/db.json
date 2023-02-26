@@ -1,0 +1,18 @@
+{
+  "todo": [
+    {
+      "descrizione": "comprare il pane",
+      "id": 1
+    },
+    {
+      "descrizione": "comprare il latte",
+      "id": 2,
+      "completed": true
+    },
+    {
+      "descrizione": "andare a troie",
+      "id": 3,
+      "completed": true
+    }
+  ]
+}
